@@ -1,0 +1,46 @@
+body{
+    background-color: #ffffff;
+    text-align: center;
+    align-items: center;
+
+}
+table{
+    
+    border-collapse: collapse;
+    width: 120%;
+}
+thead {
+    background-color: #a8b8a4;
+}
+th,td{
+    border: none;
+    padding: 30px;
+}
+tbody{
+    background-color: rgb(234, 251, 252);
+}
+
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+div {
+    position: absolute;
+    top: 60%;
+    left: 60%;
+    transform: translate(-70%, -70%);
+    text-align: center;
+    align-items: center;
+}
+
+.remove-icon{
+    width:  20px;
+    height: 20px;
+}
+
+input{
+    width: 20px;
+    height: 20px;
+}
